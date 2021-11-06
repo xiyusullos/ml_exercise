@@ -603,7 +603,7 @@ class Dtree():
                     max_ent = cur_ent;
                     bestprop = property_set[i];
                     best_threshold = [];
-                return bestprop, best_threshold
+        return bestprop, best_threshold
 
     def __count(self, data_set, prop):
 
@@ -624,7 +624,7 @@ class Dtree():
         '''
         输入数据处理
         '''
-        file = open(filename, 'r')
+        file = open(filename, 'r', encoding='utf8')
         linelen = 0
         first = 1
         while 1:
@@ -691,7 +691,7 @@ if __name__ == '__main__':
 
 #### 代码结果
 
-![1546772867519](assets/1546772867519.png)
+![1546772867519](assets/result-4.3.png)
 
 #### 结果分析
 
