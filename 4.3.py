@@ -406,7 +406,7 @@ class Dtree():
                     max_ent = cur_ent;
                     bestprop = property_set[i];
                     best_threshold = [];
-                return bestprop, best_threshold
+        return bestprop, best_threshold
 
     def __count(self, data_set, prop):
 
