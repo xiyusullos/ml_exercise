@@ -42,7 +42,7 @@
 '''
 @LICENSE: Copyright(C) 2019, xiyusullos
 @AUTHOR: xiyusullos
-@BLOG: https://blog.xy-jit.cc
+@BLOG: https://blog.aponder.top
 @FILE: 3.3.py
 '''
 
@@ -202,7 +202,7 @@ $$
 '''
 @LICENSE: Copyright(C) 2019, xiyusullos
 @AUTHOR: xiyusullos
-@BLOG: https://blog.xy-jit.cc
+@BLOG: https://blog.aponder.top
 @FILE: 4.3.py
 '''
 
@@ -774,7 +774,7 @@ if __name__ == '__main__':
 '''
 @LICENSE: Copyright(C) 2019, xiyusullos
 @AUTHOR: xiyusullos
-@BLOG: https://blog.xy-jit.cc
+@BLOG: https://blog.aponder.top
 @FILE: 5.5.py
 '''
 
@@ -1005,7 +1005,7 @@ BP_round: 10
 '''
 @LICENSE: Copyright(C) 2019, xiyusullos
 @AUTHOR: xiyusullos
-@BLOG: https://blog.xy-jit.cc
+@BLOG: https://blog.aponder.top
 @FILE: 6.3.py
 '''
 
@@ -1249,7 +1249,7 @@ print('accuracy of C4.5 tree: %.3f' % accuracy)
 '''
 @LICENSE: Copyright(C) 2019, xiyusullos
 @AUTHOR: xiyusullos
-@BLOG: https://blog.xy-jit.cc
+@BLOG: https://blog.aponder.top
 @FILE: 7.3.py
 '''
 
@@ -1374,7 +1374,7 @@ p.151例1的结果：
 '''
 @LICENSE: Copyright(C) 2019, xiyusullos
 @AUTHOR: xiyusullos
-@BLOG: https://blog.xy-jit.cc
+@BLOG: https://blog.aponder.top
 @FILE: 9.4.py
 '''
 

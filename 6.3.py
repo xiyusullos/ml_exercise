@@ -3,7 +3,7 @@
 '''
 @LICENSE: Copyright(C) 2019, xiyusullos
 @AUTHOR: xiyusullos
-@BLOG: https://blog.xy-jit.cc
+@BLOG: https://blog.aponder.top
 @FILE: 6.3.py
 @TIME: 2019-01-10 09:44:47
 @DESC:
