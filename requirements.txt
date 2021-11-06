@@ -12,6 +12,3 @@ scikit-learn
 matplotlib
 # use the 2021-11-06 version
 # matplotlib==3.4.1
-
-#torch==1.0.0
-#torchvision==0.2.1
