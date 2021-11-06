@@ -427,7 +427,7 @@ class Dtree():
         '''
         输入数据处理
         '''
-        file = open(filename, 'r')
+        file = open(filename, 'r', encoding='utf8')
         linelen = 0
         first = 1
         while 1:
